@@ -1,0 +1,8 @@
+bin/
+obj/
+.vscode/
+.vs/
+**.user
+packages/
+**.dll
+**.dll.config
